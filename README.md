@@ -37,7 +37,7 @@ git clone https://github.com/masa7351/setupHelper.git
 
 ## Licence
 
-[MIT](https://github.com/masa7351/setupHelper/master/LICENCE.md)
+[MIT](https://github.com/masa7351/setupHelper/blob/master/LICENSE.md)
 
 ## Author
 
