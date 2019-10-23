@@ -38,7 +38,7 @@ def setupGit(path):
     import os
     os.chdir(path)
     os.system('git init')
-    os.system('curl -o .gitignore https://github.com/github/gitignore/blob/master/Swift.gitignore')
+    os.system('curl -o .gitignore https://raw.githubusercontent.com/github/gitignore/master/Swift.gitignore')
     os.system('git add .gitignore')
 
 if __name__ == "__main__":
